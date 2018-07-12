@@ -1,0 +1,3 @@
+this is simple racing game made without using any graphic library. the graphic array of computer is used to develop the game using procedural
+programming. one can easily convert this program to have oop design. random function are used to generate different level, but still the program 
+is fully complete as i have presently limited it to only one level which can be easily extended once you read the code.
